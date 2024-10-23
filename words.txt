@@ -14,7 +14,7 @@ del
 elif
 else
 except
-finally',
+finally
 for
 from
 global
